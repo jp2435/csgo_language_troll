@@ -15,24 +15,24 @@
 		
 	// SKILL GROUPS
 	
-		"skillgroup_1"						"(1/18) Silver I"
-		"skillgroup_2"						"(2/18) Silver II"
-		"skillgroup_3"						"(3/18) Silver III"
-		"skillgroup_4"						"(4/18) Silver IV"
-		"skillgroup_5"						"(5/18) Silver Elite"
-		"skillgroup_6"						"(6/18) Silver Elite Master"
-		"skillgroup_7"						"(7/18) Gold Nova I"
-		"skillgroup_8"						"(8/18) Gold Nova II"
-		"skillgroup_9"						"(9/18) Gold Nova III"
-		"skillgroup_10"						"(10/18) Gold Nova Master"
-		"skillgroup_11"						"(11/18) Master Guardian I"
-		"skillgroup_12"						"(12/18) Master Guardian II"
-		"skillgroup_13"						"(13/18) Master Guardian Elite"
-		"skillgroup_14"						"(14/18) Distinguished Master Guardian"
-		"skillgroup_15"						"(15/18) Legendary Eagle"
-		"skillgroup_16"						"(16/18) Legendary Eagle Master"
-		"skillgroup_17"						"(17/18) Supreme Master First Class"
-		"skillgroup_18"						"(18/18) The Global Elite"
+		"skillgroup_1"						"(1/18) Foda-se deves comer merda as colheres"
+		"skillgroup_2"						"(2/18) Que merdoso"
+		"skillgroup_3"						"(3/18) Continuas uma merda"
+		"skillgroup_4"						"(4/18) És uma merda mas versao 4"
+		"skillgroup_5"						"(5/18) Fazes parte das merdas elite"
+		"skillgroup_6"						"(6/18) Quase gold mas és só uma merda mestre"
+		"skillgroup_7"						"(7/18) E CARALHOOO ÉS GOOOOLD"
+		"skillgroup_8"						"(8/18) Gold 2 és dono de dois escravos"
+		"skillgroup_9"						"(9/18) Ui quinta de escravos"
+		"skillgroup_10"						"(10/18) ULTIMATE REI DE PT"
+		"skillgroup_11"						"(11/18) Mestre guardiã alcoviteira"
+		"skillgroup_12"						"(12/18) Mestre guardiã dona do bordel"
+		"skillgroup_13"						"(13/18) Mestre guardiã do only fans"
+		"skillgroup_14"						"(14/18) Puta da cara toda disfigurada de levar piçadas"
+		"skillgroup_15"						"(15/18) Águia do benfica depenada"
+		"skillgroup_16"						"(16/18) Águia do benfica"
+		"skillgroup_17"						"(17/18) Primeira classe da puta que te pariu"
+		"skillgroup_18"						"(18/18) Nivel Tony"
 	
 	// PLAY OPTIONS (MENUS)
 	
@@ -54,7 +54,7 @@
 		"SFUI_InvTooltip_Wear_Amount_1"		"Minimal Wear (4)"
 		"SFUI_InvTooltip_Wear_Amount_2"		"Field-Tested (3)"
 		"SFUI_InvTooltip_Wear_Amount_3"		"Toda fodida (2)"
-		"SFUI_InvTooltip_Wear_Amount_4"		"Toda Escada (1)"
+		"SFUI_InvTooltip_Wear_Amount_4"		"Toda Escacada (1)"
 		
 	// NOW PLAYING INFORMATION (IN-GAME)
 	
@@ -67,7 +67,7 @@
 		"Cstrike_TitlesTXT_Bomb_Defused"	"Bomba foi co caralho"
 		"Cstrike_TitlesTXT_Bomb_Planted"	"Bomba vai-te foder (%s1 seconds left)"
 		"SFUI_Notice_Got_Bomb"				"Arrebenta com esta merda toda"
-		"SFUI_Notice_YouDroppedWeapon"		"Mãos de manteiga!! Deixa-te cair a %s1"
+		"SFUI_Notice_YouDroppedWeapon"		"Mãos de manteiga!! Deixa-te cair a puta da %s1"
 		
 	// LOADING SCREEN
 		
@@ -157,8 +157,8 @@
 	// GRENADE MESSAGES (CHAT)
 		
 		"SFUI_TitlesTXT_Fire_in_the_hole" 				"Golo"
-		"SFUI_TitlesTXT_Molotov_in_the_hole" 			"Vai te queimar o cu"
-		"SFUI_TitlesTXT_Incendiary_in_the_hole" 		"Vai te queimar o rabinho"
+		"SFUI_TitlesTXT_Molotov_in_the_hole" 			"Vou flambear!"
+		"SFUI_TitlesTXT_Incendiary_in_the_hole" 		"Vou flambear!"
 		"SFUI_TitlesTXT_Flashbang_in_the_hole" 			"Todo Branco"
 		"SFUI_TitlesTXT_Smoke_in_the_hole" 				"Weed"
 		"SFUI_TitlesTXT_Decoy_in_the_hole" 				"Jajão"
