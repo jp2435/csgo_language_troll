@@ -7,7 +7,7 @@ Localização(Geralmente):
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 ```
-<p>Colocar o ficheiro nesssa pasta (\resource)</p>
+<p>Colocar o ficheiro nessa pasta (\resource)</p>
 <p>Em opções de arranque:</p>
 
 ```
