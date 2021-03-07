@@ -4,11 +4,14 @@
 "Tokens"
 { 
 // -------------------------------------------------------------------------------------------
-	//My thinks
+	//Mapas
 		"SFUI_Map_de_dust2"	"Cheater's map"
 		"SFUI_Map_de_mirage"	"O Rei dos Comp's"
 		"SFUI_Map_de_engage"	"Stand de usados"
 		"SFUI_Map_cs_apollo"	"Nasa da Wish"
+		"SFUI_Map_de_train"	"Estação de Campanhã"
+		"SFUI_Map_de_nuke"	"Central Nuclear de Almaraz"
+		"SFUI_Map_de_cache"	"Amadora"
 	// MATCH READY BUTTON
 	
 		"match_ready_accept"				"Bota que tem"
@@ -32,7 +35,7 @@
 		"skillgroup_15"						"(15/18) Águia do benfica depenada"
 		"skillgroup_16"						"(16/18) Águia do benfica"
 		"skillgroup_17"						"(17/18) Primeira classe da puta que te pariu"
-		"skillgroup_18"						"(18/18) Nivel Tony"
+		"skillgroup_18"						"(18/18) Hitman"
 	
 	// PLAY OPTIONS (MENUS)
 	
@@ -118,8 +121,8 @@
 		
 	// AWARD MESSAGES (CHAT)
 		
-		"Player_Cash_Award_ExplainSuicide_YouGotCash"			"(+$%s2 for the suicide of %s1)"
-		"Player_Cash_Award_ExplainSuicide_TeammateGotCash"		"Teammate %s3 was awarded +$%s2 for the suicide of %s1."
+		"Player_Cash_Award_ExplainSuicide_YouGotCash"			"(Recebeste +$%s2 paus pela depressão de %s1)"
+		"Player_Cash_Award_ExplainSuicide_TeammateGotCash"		"Filho da puta da tua equipa %s3 recebeu +$%s2 pela depressão de %s1."
 		"Player_Cash_Award_ExplainSuicide_EnemyGotCash"			"Enemy player was awarded for the suicide of %s1."
 		"Player_Cash_Award_ExplainSuicide_Spectators"			" %s3 was awarded +$%s2 for the suicide of %s1."
 		
