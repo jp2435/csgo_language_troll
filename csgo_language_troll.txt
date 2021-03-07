@@ -12,6 +12,9 @@
 		"SFUI_Map_de_train"	"Estação de Campanhã"
 		"SFUI_Map_de_nuke"	"Central Nuclear de Almaraz"
 		"SFUI_Map_de_cache"	"Amadora"
+		"SFUI_Map_de_lake"	"Alqueva"
+	//
+		"SFUI_Overall_Stars"	"Melhor cabrão: %d"
 	//Partida pronta
 		"match_ready_accept"				"Bota que tem"
 		
