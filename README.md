@@ -1,6 +1,7 @@
 <h1> CS:GO Language Troll</h1>
 <em>csgo_language_troll.txt</em>
-<h2>Como instalar</h2>
+<hr>
+<h1>Como instalar</h1>
 Localização(Geralmente): 
 
 ```
