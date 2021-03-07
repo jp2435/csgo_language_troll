@@ -7,8 +7,8 @@ Localização(Geralmente):
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 ```
-Colocar o ficheiro nesssa pasta (\resource)
-Em opções de arranque:
+<p>Colocar o ficheiro nesssa pasta (\resource)</p>
+<p>Em opções de arranque:</p>
 
 ```
 -language language_troll
