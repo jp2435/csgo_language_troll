@@ -29,7 +29,7 @@
 		"SFUI_Notice_Bomb_Defused"	"Inspetor max caralhoooo"
 		"SFUI_T_Label"	"GANDINS"
 		"SFUI_CT_Label"	"MOINAS"
-		"winpanel_mvp_award"    "Melhor cabrão: %s1"
+
 		
 	//ARMAS
 		
