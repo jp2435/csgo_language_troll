@@ -18,6 +18,10 @@
 		"SFUI_Map_de_anubis"	"1 GF = 50 camelos"
 	//
 		"SFUI_Overall_Stars"	"Melhor cabrão: %d"
+		"SFUI_Notice_Terrorists_Win"	"Vitória dos Gandins"
+		"SFUI_Notice_CTs_Win"	"Vitória dos Moinas"
+		"SFUI_Notice_Bomb_Defused"	"Bomba foi co caralho"
+		
 	//Partida pronta
 		"match_ready_accept"				"Bota que tem"
 		
