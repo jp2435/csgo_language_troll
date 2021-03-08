@@ -16,11 +16,20 @@
 		"SFUI_Map_cs_agency"	"Agência Publicitária de Chelas"
 		"SFUI_Map_de_vertigo"	"Obras públicas"
 		"SFUI_Map_de_anubis"	"1 GF = 50 camelos"
-	//
-		"SFUI_Overall_Stars"	"Melhor cabrão: %d"
+	//GANDINS E MOINAS
+		
+		"Ts_win"	"Vitória dos Gandins"
+		"winpanel_t_win"	"Vitória dos Gandins"
 		"SFUI_Notice_Terrorists_Win"	"Vitória dos Gandins"
+		"CTs_win"	"Vitória dos Moinas"
+		"winpanel_ct_win"	"Vitória dos Moinas"
 		"SFUI_Notice_CTs_Win"	"Vitória dos Moinas"
 		"SFUI_Notice_Bomb_Defused"	"Bomba foi co caralho"
+		"SFUI_T_Label"	"GANDINS"
+		"SFUI_CT_Label"	"MOINAS"
+		"winpanel_mvp_award"    "Melhor cabrão: %s1"
+		
+	//ARMAS
 		
 	//Partida pronta
 		"match_ready_accept"				"Bota que tem"
