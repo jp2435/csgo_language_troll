@@ -28,6 +28,7 @@
 		"SFUI_WinPanel_CT_Win" 	"Vitória dos Moinas"
 		"SFUI_Notice_Bomb_Defused"	"Inspetor max caralhoooo"
 		"SFUI_T_Label"	"GANDINS"
+		"terrorists"	"Gandins"
 		"SFUI_CT_Label"	"MOINAS"
 
 		
