@@ -30,7 +30,6 @@
 		"SFUI_T_Label"	"GANDINS"
 		"terrorists"	"Gandins"
 		"SFUI_CT_Label"	"MOINAS"
-
 		
 	//ARMAS
 		
