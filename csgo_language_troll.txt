@@ -16,6 +16,7 @@
 		"SFUI_Map_cs_agency"	"Agência Publicitária de Chelas"
 		"SFUI_Map_de_vertigo"	"Obras públicas"
 		"SFUI_Map_de_anubis"	"1 GF = 50 camelos"
+		
 	//GANDINS E MOINAS
 		
 		"Ts_win"	"Vitória dos Gandins"
@@ -51,7 +52,7 @@
 		"SFUI_WPNHUD_M249"	"M249"
 		"SFUI_WPNHUD_M4A1"	"M4A4"
 		"SFUI_WPNHUD_MAC10"	"MAC-10"
-		"SFUI_WPNHUD_P90"	"P90"
+		"SFUI_WPNHUD_P90"	"P-Nojenta" //P90
 		"SFUI_WPNHUD_Smoke_Grenade"	"Granada de Fumo"
 		"SFUI_WPNHUD_UMP45"	"UMP-45"
 		"SFUI_WPNHUD_xm1014"	"XM1014"
@@ -66,11 +67,11 @@
 		"SFUI_WPNHUD_IncGrenade"	"Granada Incendiária"
 		"SFUI_WPNHUD_Decoy"	"Granada de Distração"
 		"SFUI_WPNHUD_HKP2000"	"P2000"
-		"SFUI_WPNHUD_MP7"	"MP7"
-		"SFUI_WPNHUD_MP9"	"MP9"
-		"SFUI_WPNHUD_Nova"	"Nova"
+		"SFUI_WPNHUD_MP7"	"Arma dos Chinos" //MP7
+		"SFUI_WPNHUD_MP9"	"Arma do Lidl" //MP9
+		"SFUI_WPNHUD_Nova"	"Caça Patos" //Nova
 		"SFUI_WPNHUD_P250"	"P250"
-		"SFUI_WPNHUD_SCAR20"	"SCAR-20"
+		"SFUI_WPNHUD_SCAR20"	"SCAR-20" //SCAR-20
 		"SFUI_WPNHUD_SG556"	"SG 553"
 		"SFUI_WPNHUD_SSG08"	"SSG 08"
 		"SFUI_WPNHUD_ASSAULTSUIT"	"Kevlar + Capacete"
