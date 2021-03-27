@@ -16,6 +16,7 @@
 		"SFUI_Map_cs_agency"	"Agência Publicitária de Chelas"
 		"SFUI_Map_de_vertigo"	"Obras públicas"
 		"SFUI_Map_de_anubis"	"1 GF = 50 camelos"
+		"SFUI_Map_de_cbble"	"Castelo de Aljezur
 		
 	//GANDINS E MOINAS
 		
@@ -39,7 +40,7 @@
 		"SFUI_WPNHUD_Aug"	"AUG"
 		"SFUI_WPNHUD_AWP"	"AWP"
 		"SFUI_WPNHUD_DesertEagle"	"Desert Eagle"
-		"SFUI_WPNHUD_Elites"	"Dual Berettas"
+		"SFUI_WPNHUD_Elites"	"Armas de Água"  //Dual Berettas
 		"SFUI_WPNHUD_Famas"	"FAMAS"
 		"SFUI_WPNHUD_FiveSeven"	"Five-SeveN"
 		"SFUI_WPNHUD_Flashbang"	"Flashbang"
@@ -47,7 +48,7 @@
 		"SFUI_WPNHUD_GalilAR"	"Galil AR"
 		"SFUI_WPNHUD_Glock18"	"Glock-18"
 		"SFUI_WPNHUD_HE_Grenade"	"Granada HE"
-		"SFUI_WPNHUD_Knife"	"Faca"
+		"SFUI_WPNHUD_Knife"	"Xinadora" //Knife
 		"SFUI_WPNHUD_Knife_GG"	"Faca Dourada"
 		"SFUI_WPNHUD_M249"	"M249"
 		"SFUI_WPNHUD_M4A1"	"M4A4"
@@ -65,7 +66,7 @@
 		"SFUI_WPNHUD_Taser"	"Zeus x27"
 		"SFUI_WPNHUD_Molotov"	"Molotov"
 		"SFUI_WPNHUD_IncGrenade"	"Granada Incendiária"
-		"SFUI_WPNHUD_Decoy"	"Granada de Distração"
+		"SFUI_WPNHUD_Decoy"	"Decoi"
 		"SFUI_WPNHUD_HKP2000"	"P2000"
 		"SFUI_WPNHUD_MP7"	"Arma dos Chinos" //MP7
 		"SFUI_WPNHUD_MP9"	"Arma do Lidl" //MP9
