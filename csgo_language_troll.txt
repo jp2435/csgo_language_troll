@@ -40,7 +40,7 @@
 		"SFUI_WPNHUD_Aug"	"AUG"
 		"SFUI_WPNHUD_AWP"	"AWP"
 		"SFUI_WPNHUD_DesertEagle"	"Desert Eagle"
-		"SFUI_WPNHUD_Elites"	"Armas de Água"  //Dual Berettas
+		"SFUI_WPNHUD_Elites"	"Armas d' Água"  //Dual Berettas
 		"SFUI_WPNHUD_Famas"	"FAMAS"
 		"SFUI_WPNHUD_FiveSeven"	"Five-SeveN"
 		"SFUI_WPNHUD_Flashbang"	"Flashbang"
