@@ -16,7 +16,7 @@
 		"SFUI_Map_cs_agency"	"Agência Publicitária de Chelas"
 		"SFUI_Map_de_vertigo"	"Obras públicas"
 		"SFUI_Map_de_anubis"	"1 GF = 50 camelos"
-		"SFUI_Map_de_cbble"	"Castelo de Aljezur
+		"SFUI_Map_de_cbble"	"Castelo de Aljezur"
 		
 	//GANDINS E MOINAS
 		
