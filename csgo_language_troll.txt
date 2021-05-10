@@ -60,7 +60,7 @@
 		"SFUI_WPNHUD_C4"	"Explosivo C4"
 		"SFUI_WPNHUD_Bizon"	"PP-Bizon"
 		"SFUI_WPNHUD_Mag7"	"MAG-7"
-		"SFUI_WPNHUD_Negev"	"Negev"
+		"SFUI_WPNHUD_Negev"	"Spam-Bot" //Negev
 		"SFUI_WPNHUD_Sawedoff"	"Sawed-Off"
 		"SFUI_WPNHUD_Tec9"	"Tec-9"
 		"SFUI_WPNHUD_Taser"	"Zeus x27"
