@@ -52,14 +52,14 @@
 		"SFUI_WPNHUD_Knife_GG"	"Faca Dourada"
 		"SFUI_WPNHUD_M249"	"M249"
 		"SFUI_WPNHUD_M4A1"	"M4A4"
-		"SFUI_WPNHUD_MAC10"	"MAC-10"
+		"SFUI_WPNHUD_MAC10"	"MAC-Estouro" //MAC-10
 		"SFUI_WPNHUD_P90"	"P-Nojenta" //P90
 		"SFUI_WPNHUD_Smoke_Grenade"	"Granada de Fumo"
 		"SFUI_WPNHUD_UMP45"	"UMP-45"
 		"SFUI_WPNHUD_xm1014"	"XM1014"
-		"SFUI_WPNHUD_C4"	"Explosivo C4"
-		"SFUI_WPNHUD_Bizon"	"PP-Bizon"
-		"SFUI_WPNHUD_Mag7"	"MAG-7"
+		"SFUI_WPNHUD_C4"	"C4 Pedro" //Explosivo C4
+		"SFUI_WPNHUD_Bizon"	"Piu-Piu" //PP-Bizon
+		"SFUI_WPNHUD_Mag7"	"Style-7" //MAG-7
 		"SFUI_WPNHUD_Negev"	"Spam-Bot" //Negev
 		"SFUI_WPNHUD_Sawedoff"	"Sawed-Off"
 		"SFUI_WPNHUD_Tec9"	"Tec-9"
@@ -75,9 +75,9 @@
 		"SFUI_WPNHUD_SCAR20"	"Autonoob" //SCAR-20
 		"SFUI_WPNHUD_SG556"	"SG 553"
 		"SFUI_WPNHUD_SSG08"	"AWP da Wish" //SSG 08
-		"SFUI_WPNHUD_ASSAULTSUIT"	"Kevlar + Capacete"
+		"SFUI_WPNHUD_ASSAULTSUIT"	"Kevlar + Cap" //Kevlar + Capacete
 		"SFUI_WPNHUD_KEVLAR"	"Colete em Kevlar"
-		"SFUI_WPNHUD_DEFUSER"	"Kit de Desativação"
+		"SFUI_WPNHUD_DEFUSER"	"Kitzão" //Kit de Desativação
 		
 	//Partida pronta
 		"match_ready_accept"				"Bota que tem"
